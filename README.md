@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/gamma-prime-precipitate-strengthening-explainer/
 
+Repository: https://github.com/mizcausevic-dev/gamma-prime-precipitate-strengthening-explainer
+
 ## What this is
 
 An interactive anatomy plate for Gamma-Prime Precipitate Strengthening. Play, scrub, or jump the five stages. The same frame always draws the same picture.
